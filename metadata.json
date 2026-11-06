@@ -1,0 +1,6 @@
+{
+  "name": "Python Student Performance Analyzer",
+  "description": "Interactive Python-based Student Performance Analysis and Visualization System designed for beginners, featuring variables, lists, dictionaries, functions, and OOP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
